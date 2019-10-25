@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>test</name>
+=======
+	<name>Yc-Test</name>
+>>>>>>> branch 'master' of https://github.com/smoppe/YC-71.git
 	<comment></comment>
 	<projects>
 	</projects>
